@@ -1,0 +1,5 @@
+1-clone the repo
+2-isntall the requiered libraries in VS code
+3-open the reccommendation folder in VS code
+4- run "API.py"
+
