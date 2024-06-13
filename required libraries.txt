@@ -1,4 +1,4 @@
 run this command line in VS code terminal 
 
 
-pip install Flask tensorflow numpy scikit-learn pillow
+pip install Flask tensorflow numpy scikit-learn pillow fastapi uvicorn
